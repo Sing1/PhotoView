@@ -12,10 +12,10 @@ dependencies {
 ## Maven:
 ```xml
 <dependency>
-  <groupId>sing.photoview</groupId>
-  <artifactId>library</artifactId>
-  <version>1.0.1</version>
-  <type>pom</type>
+　　<groupId>sing.photoview</groupId>
+　　<artifactId>library</artifactId>
+　　<version>1.0.1</version>
+　　<type>pom</type>
 </dependency>
 ``` 
 
