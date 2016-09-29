@@ -24,5 +24,5 @@ PhotoView photoView = new PhotoView(mActivity);
 ```
 PhotoView is a ImageView, you can use PhotoView instead of ImageView,for example：
 ```JAVA 
-ImageLoader.displayImage(mActivity, images.get(position), photoView, screenWidth, screenHeight);
+ImageLoader.displayImage(mActivity, imagesPath, photoView, screenWidth, screenHeight);
 ```
