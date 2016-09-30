@@ -1,5 +1,5 @@
 # PhotoView    
- ![](./app/src/main/res/drawable-nodpi/demo.gif "")
+ ![](./app/src/main/res/drawable-nodpi/demo.gif "https://github.com/Sing1/MaterialProgressBar/blob/master/app/src/main/res/drawable-nodpi/demo.gif")
 ## apk
 [PhotoView-1.0.1-sample.apk](https://github.com/Sing1/PhotoView/blob/master/app/app-debug.apk)
 ## gradle:
